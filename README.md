@@ -1,2 +1,2 @@
 # Chess
-Chess game written with React + Typescript
+Chess game written with React + Typescript and Styled-components/
