@@ -1,4 +1,4 @@
 export enum Colors {
-  WHITE = '#7fbfd4',
-  BLACK = '#f3d08e',
+  BLACK = '#3e96b3',
+  WHITE = '#e7be70',
 }
